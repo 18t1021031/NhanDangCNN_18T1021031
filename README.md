@@ -1,6 +1,7 @@
 #Source code Nhận dạng khuôn mặt bằng phương pháp mạng nơron tích chập (CNN)
 Họ và tên: Nguyễn Thành Dẫn
 Mã sinh viên: 18T1021031
+
 Bước 1: Tạo và tải các thứ cần thiết
   Tạo thư mục Dataset trong NhanDangCNN_18T1021031, trong đó tạo tiếp thư mục FaceData và dưới FaceData là tạo tiếp 2 thư mục raw và processed.
   Tạo thư mục Models trong NhanDangCNN_18T1021031 để chờ sẵn tẹo lưu model InceptionResnetV1.
